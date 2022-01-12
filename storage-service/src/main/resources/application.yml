@@ -38,4 +38,4 @@ seata:
     vgroup-mapping: # 事务组合cluster的映射关系
       seata-demo: DEFAULT
 
-  data-source-proxy-mode: XA
+  data-source-proxy-mode: AT
